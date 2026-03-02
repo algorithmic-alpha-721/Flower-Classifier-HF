@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.zip
+*.ipynb
+.env
+*.pt
+*.bin
+model/
+gradio/
+prediction_report.csv``
